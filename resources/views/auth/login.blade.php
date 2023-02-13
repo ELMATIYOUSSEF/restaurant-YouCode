@@ -27,6 +27,7 @@
           </div>
         @enderror
       </div>
+      <div class="g-recaptcha" name="g-recaptcha-response" data-sitekey="6LdKIXokAAAAAP88Bq78NehFWbRNqvzjpx8ScxV4"></div>
       <div class="mb-3">
         <div class="form-check">
           <input type="checkbox" class="form-check-input" id="dropdownCheck2">
